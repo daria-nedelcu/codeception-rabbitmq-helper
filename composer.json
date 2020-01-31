@@ -1,0 +1,9 @@
+{
+    "name": "darianedelcu/codeception-rabbitmq-helper",
+    "type": "library",
+    "require": {
+        "codeception/codeception": "^4.0",
+        "php-amqplib/php-amqplib": "~2.11",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
